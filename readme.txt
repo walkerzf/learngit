@@ -5,4 +5,4 @@ Now i append one line twice.
 
 
 fku
-Creating a new branch!
+Creating a strange branch! 
