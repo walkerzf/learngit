@@ -6,3 +6,5 @@ Now i append one line twice.
 
 fku
 Creating a new branch!
+
+Creat a feature
