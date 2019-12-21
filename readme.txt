@@ -4,3 +4,4 @@ I am learning to use git
 Now i append one line twice.
 
 
+fku
